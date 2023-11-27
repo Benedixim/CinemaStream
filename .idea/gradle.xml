@@ -12,6 +12,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/db" />
+            <option value="$PROJECT_DIR$/app/mvi" />
+            <option value="$PROJECT_DIR$/app/mylibrary" />
+            <option value="$PROJECT_DIR$/app/network" />
+            <option value="$PROJECT_DIR$/app/screen" />
           </set>
         </option>
       </GradleProjectSettings>

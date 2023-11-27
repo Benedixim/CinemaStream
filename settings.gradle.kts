@@ -15,4 +15,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "Cinema Stream"
 include(":app")
- 
+include(":app:mylibrary")
+include(":app:db")
+include(":app:network")
+include(":app:screen")
+include(":app:mvi")
